@@ -14307,12 +14307,12 @@
     "description": "Syncs your setlist.fm attended concerts.",
     "repo": "fleker/setlist-for-obsidian"
   },
-    {
-    "id": "mass-create",
-    "name": "Mass Create",
-    "author": "vellikhor",
-    "description": "Create large quantities of notes easily at one time.",
-    "repo": "vellikhor/mass-create"
-    }
+  {
+    "id": "html-markdown-shortcuts",
+    "name": "HTML MD SC",
+    "author": "renebrucknerjnr",
+    "description": "Adds HTML markdown with CSS snippets, as well as shortcuts for them.",
+    "repo": "renebrucknerjnr/obsidian-html-md-shortcuts"
+  }
 ]
 
